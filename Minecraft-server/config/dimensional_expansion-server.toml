@@ -1,0 +1,7 @@
+
+["Config for Dimensional Expansion Server"]
+	#Power stone delay. By Default is 100 seconds
+	"Power Stone Delay" = 100
+	#Enable ALL power stones. By Default is true (If it's a big server is recommended to be false!)
+	"Enable ALL Power Stone" = true
+
